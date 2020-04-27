@@ -12,6 +12,8 @@
 <details>
   <summary>Expand</Summary>
   
+  Original material: https://github.com/DevMountain/web-curriculum-v3/tree/master/01-orientation
+  
   ### CLI
 CLI (Command Line Interface): Also called the terminal, is the program we will use to interact with our computer's files and directories. It will be important to become proficient in the various commands you can use in the terminal. On Apple computers we are able to use the built in terminal. On Windows machines we will need to download Bash for windows which can be found at https://gitforwindows.org/
 
@@ -82,6 +84,7 @@ We are able to easily make copies of existing repositories on GitHub, this is ca
 ```bash
 git clone "url for github repo"
 ```
-
+### Project
+* Learn Git Project - https://github.com/wlh18/learn-git
   
 </details>
