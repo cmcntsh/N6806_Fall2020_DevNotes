@@ -9,6 +9,7 @@
   
   with text
   with text
+  </details>
 
 ## Level 2 heading 2
 
