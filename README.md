@@ -22,7 +22,9 @@
   
   ### Git/Git-bash
   Download and install
+  
   Mac - https://git-scm.com/downloads
+  
   Windows - https://gitforwindows.org/
   
   ### GitHub
