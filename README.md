@@ -97,9 +97,9 @@ git clone "url for github repo"
   
   https://github.com/DevMountain/web-curriculum-v3/tree/master/02-html-css-1
   
-</details
+</details>
 
-## JavaScript Introduction
+
 ## JavaScript Introduction
 
 <details>
@@ -107,4 +107,4 @@ git clone "url for github repo"
   
   https://github.com/DevMountain/web-curriculum-v3/tree/master/03-javascript-1
   
-</details
+</details>
