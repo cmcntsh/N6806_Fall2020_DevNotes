@@ -100,6 +100,16 @@ git clone "url for github repo"
 </details>
 
 
+## CSS Layout & Positioning
+
+<details>
+  <summary>Expand</summary>
+  
+  https://github.com/DevMountain/web-curriculum-v3/tree/master/06-html-css-2
+  
+</details>
+
+
 ## JavaScript Introduction
 
 <details>
@@ -108,3 +118,37 @@ git clone "url for github repo"
   https://github.com/DevMountain/web-curriculum-v3/tree/master/03-javascript-1
   
 </details>
+
+
+## JavaScript Add to HTML
+
+<details>
+  <summary>Expand</summary>
+  
+  https://github.com/DevMountain/web-curriculum-v3/tree/master/07-javascript-4
+  
+</details>
+
+
+## JavaScript Intermediate (arrays, loops, arrow functions, array methods)
+
+<details>
+  <summary>Expand</summary>
+  
+  https://github.com/DevMountain/web-curriculum-v3/tree/master/04-javascript-2
+  
+  https://github.com/DevMountain/web-curriculum-v3/tree/master/05-javascript-3
+  
+</details>
+
+
+## JavaScript Intermediate (arrow functions, constructor functions, prototype)
+
+<details>
+  <summary>Expand</summary>
+  
+  https://github.com/DevMountain/web-curriculum-v3/tree/master/08-javascript-5
+  
+</details>
+
+
