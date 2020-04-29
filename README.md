@@ -110,6 +110,16 @@ git clone "url for github repo"
 </details>
 
 
+## CSS Responsive Layout
+
+<details>
+  <summary>Expand</summary>
+  
+  https://github.com/DevMountain/web-curriculum-v3/tree/master/18-html-css-3
+  
+</details>
+
+
 ## JavaScript Introduction
 
 <details>
@@ -150,5 +160,81 @@ git clone "url for github repo"
   https://github.com/DevMountain/web-curriculum-v3/tree/master/08-javascript-5
   
 </details>
+
+
+## JavaScript Intermediate (classes, closure functions)
+
+<details>
+  <summary>Expand</summary>
+  
+  https://github.com/DevMountain/web-curriculum-v3/tree/master/11-javascript-6
+  
+</details>
+
+
+## JavaScript Advanced (React, Data Flow, Components, Axios, React Router, Redux, hooks, unit testing, debugging)
+
+<details>
+  <summary>Expand</summary>
+  
+  https://github.com/DevMountain/web-curriculum-v3/tree/master/12-react-1
+  
+  https://github.com/DevMountain/web-curriculum-v3/tree/master/13-react-2
+  
+  https://github.com/DevMountain/web-curriculum-v3/tree/master/14-react-3
+  
+  https://github.com/DevMountain/web-curriculum-v3/tree/master/15-react-4
+  
+  https://github.com/DevMountain/web-curriculum-v3/tree/master/23-react-5
+  
+  https://github.com/DevMountain/web-curriculum-v3/tree/master/25-react-6
+  
+  https://github.com/DevMountain/web-curriculum-v3/tree/master/31-react-7
+  
+  https://github.com/DevMountain/web-curriculum-v3/tree/master/32-testing
+  
+  https://github.com/DevMountain/web-curriculum-v3/tree/master/33-debugging
+  
+</details>
+
+
+## JavaScript Advanced (Node, Express, Middleware)
+
+<details>
+  <summary>Expand</summary>
+  
+  https://github.com/DevMountain/web-curriculum-v3/tree/master/16-node-1
+  
+  https://github.com/DevMountain/web-curriculum-v3/tree/master/17-node-2
+  
+  https://github.com/DevMountain/web-curriculum-v3/tree/master/26-node-4
+  
+</details>
+
+
+## JavaScript Advanced (errors, async, promises, memoization, hoisting)
+
+<details>
+  <summary>Expand</summary>
+  
+  https://github.com/DevMountain/web-curriculum-v3/tree/master/30-javascript-7
+  
+</details>
+
+
+## SQL (Postgresql, Node, Table Keys)
+
+<details>
+  <summary>Expand</summary>
+  
+  https://github.com/DevMountain/web-curriculum-v3/tree/master/21-sql-1
+  
+  https://github.com/DevMountain/web-curriculum-v3/tree/master/22-node-3
+  
+  https://github.com/DevMountain/web-curriculum-v3/tree/master/27-sql-2
+  
+</details>
+
+
 
 
