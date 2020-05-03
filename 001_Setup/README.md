@@ -1,8 +1,5 @@
 ## Setup
 
-<details>
-  <summary>Expand</summary>
-  
   ### Original material
   * https://github.com/DevMountain/web-curriculum-v3/tree/master/01-orientation
   * https://slides.com/dmweb/web-remote-orientation#/
@@ -10,10 +7,6 @@
   #### Key points from slides
   * Front-end: HTML, CSS, JavaScript, React
   * Back-end: Node, Express, PostgreSQL
-  
-  ### Group Communication:
-  * (probably won't use)
-  * Discord: https://discordapp.com/ 
   
   ### Git/Git-bash
   * Download and install.
@@ -25,10 +18,6 @@
   * Configure the username, email, and password of GitHub to work with Git. [May need instructions to do that.]
   * Link - https://www.github.com
   
-  ### Node/NPM
-  * Download and install node. This will install npm automatically
-  * Link - https://nodejs.org/en/download/
-  
   ### VSCode
   * Download and install.
   * Link - https://code.visualstudio.com/download
@@ -39,5 +28,3 @@
   * Set up an account.
   * Link - https://repl.it/
   
-  
-  </details>
