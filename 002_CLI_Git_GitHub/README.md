@@ -87,7 +87,7 @@ We are able to easily make copies of existing repositories on GitHub, this is ca
 git clone "url for github repo"
 ```
 ### Project
-* [ ] Complete the Learn Git Project - https://github.com/cmcntsh/N6806_Fall2020_DevNotes/blob/master/Projects/002%20-%20Practice%20Using%20Git%20and%20GitHub/README.md
+* [ ] Complete the Practice using Git and GitHub Project - https://github.com/cmcntsh/N6806_Fall2020_DevNotes/blob/master/Projects/002%20-%20Practice%20Using%20Git%20and%20GitHub/README.md
 
 ### Git reference material
 * Official documentation: https://git-scm.com/docs
