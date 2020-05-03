@@ -1,12 +1,7 @@
 ## CLI, Git, & GitHub
 
-<details>
-  <summary>Expand</Summary>
-  
-  Original material: https://github.com/DevMountain/web-curriculum-v3/tree/master/01-orientation
-  
-  ### CLI
-CLI (Command Line Interface): Also called the terminal, is the program we will use to interact with our computer's files and directories. It will be important to become proficient in the various commands you can use in the terminal. On Apple computers we are able to use the built in terminal. On Windows machines we will need to download Bash for windows which can be found at https://gitforwindows.org/
+### CLI
+CLI (Command Line Interface): Also called the terminal, is the program we will use to interact with our computer's files and directories. It will be important to become proficient in the various commands you can use in the terminal. On Apple computers we are able to use the built in terminal. On Windows machines we will need to download Bash for windows which can be found at https://gitforwindows.org/ (Should already be installed from Setup.)
 
 ### Common Terminal Commands
 * pwd: Stands for present working directory. Show's where you currently are in your file tree.
@@ -30,6 +25,12 @@ Once our code has been committed, we can "push" it to GitHub which will create a
 
 #### Git Init
 `git init` initializes git in your current repository. This means that git will start watching all of the files and directories in that location.
+
+run:
+
+```bash
+git init
+```
 
 #### Git Add
 `git add .` tells git to track any changes that have been made. This is the command you can run to start the process of pushing your code to github.
@@ -68,6 +69,16 @@ run:
 git status
 ```
 
+#### Git dif
+
+`git dif` is the command you can run to see what changes have been made to the file you're working on before you push your code to GitHub.
+
+run:
+
+```bash
+git dif
+```
+
 #### Git Clone
 
 We are able to easily make copies of existing repositories on GitHub, this is called cloning. First you need to copy the url for the github repo that you wish to clone down to your local machine then navigate to the directory that you want to clone the repo into. Once you are in the correct directory run:
@@ -76,6 +87,15 @@ We are able to easily make copies of existing repositories on GitHub, this is ca
 git clone "url for github repo"
 ```
 ### Project
-* Learn Git Project - https://github.com/wlh18/learn-git
+* [ ] Complete the Learn Git Project - https://github.com/wlh18/learn-git
+
+### Git reference material
+* Official documentation: https://git-scm.com/docs
+* Simple guide: https://rogerdudler.github.io/git-guide/
+* Simple workflow: https://towardsdatascience.com/a-simple-git-workflow-for-github-beginners-and-everyone-else-87e39b50ee08
+
+### GitHub reference material
+* Markdown: https://guides.github.com/features/mastering-markdown/
   
-</details>
+### Original material
+Original material: https://github.com/DevMountain/web-curriculum-v3/tree/master/01-orientation
