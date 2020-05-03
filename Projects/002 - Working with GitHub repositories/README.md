@@ -1,40 +1,22 @@
-Original material: https://github.com/wlh18/learn-git
 
-<img src="https://s3.amazonaws.com/devmountain/readme-logo.png" width="250" align="right">
 
-# Project Summary
+## Practice using git and GitHub
 
-Practice using git + Github
+We'll be using these skills.
+1. Create a GitHub repository, link it to your computer, push your local changes to your GitHub repository.
+2. Fork a repository so you can work on your own copy.
+3. Create a "Pull Request" so your changes can be added to the original project.
 
-This project will consist of three separate mini-projects to get you comfortable with the kinds of activities you'll be using git for throughout the class. 
+## 1. Starting a GitHub repository.
 
-In the first mini-project, you'll be mimicking the steps you'll take when you first start your personal project. Creating a repository, linking it to your computer, then pushing those changes up to your GitHub.
+### Creating the repository on GitHub
 
-In the second mini-project, you'll be mimicking the steps you'll take with nearly every DevMountain project you do. You'll 'fork' the DevMountain repository, link your computer with your fork, then push those changes up to your GitHub.
+* [ ] Sign in to GitHub: https://github.com/
+* [ ] On the right side of the page, click on the `New repository` button.
+* [ ] Give your repository any name you like and make sure that the repository is public.
+* [ ] Also make sure that the `Initialize this repository with a README` is <b>NOT</b> checked.
 
-Finally, in the last mini-project you'll be mimicking the steps you'll take during the group project portion. You'll fork your group's repo, link your computer with your fork, push changes to your GitHub, then make a 'Pull Request' into your group's repo.
-
-## Step 1
-
-### Summary
-
-In this step we will create a repository on GitHUB.
-
-### Instructions
-
-* Go to <a href="https://github.com/">GitHub</a>.
-* Sign in to GitHub.
-* On the right side of the page, click on the green `New repository` button.
-* Give your repository any name you like and make sure that the repository is public.
-* Also make sure that the `Initialize this repository with a README` is <b>NOT</b> checked.
-
-## Step 2
-
-### Summary
-
-In this step we will setup the origin for the repository. We'll do this by connecting code on our computer to the GitHub repository we just created.
-
-### Instructions
+### Link your local repository to the GitHub repository
 
 * Create a folder called `myProject`.
 * Go into that folder.
@@ -214,9 +196,14 @@ Here is where things start to get different. Let's imagine we're working in grou
 * Click on the `Create pull request` button to submit your PR.
 * Now if you navigate to the <a href="https://github.com/DevMountain/learn-git/pulls">original repository</a> and take a look at the `Pull Requests` yours should be there.
 
+## Original material
+https://github.com/wlh18/learn-git
+
 ## Contributions
 
 If you see a problem or a typo, please fork, make the necessary changes, and create a pull request so we can review your changes and merge them into the master repo and branch.
+
+
 
 ## Copyright
 
