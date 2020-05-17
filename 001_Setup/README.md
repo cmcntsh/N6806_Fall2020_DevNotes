@@ -31,7 +31,7 @@
 * Set up an account.
 * Link - https://discord.com/
   
-### Original material
+### Links to Original material (You do not need to review this material.)
 * https://github.com/DevMountain/web-curriculum-v3/tree/master/01-orientation
 * https://slides.com/dmweb/web-remote-orientation#/
 
