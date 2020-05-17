@@ -7,4 +7,7 @@
 - [ ] Language: Select HTML, CSS, JS
 - [ ] Give the repl a name like the title of the video.
 - [ ] Click the 'Import from GitHub' tab.
-- [ ] Set up a Discord account.
+- [ ] Select the GitHub repository for this assignment from the list.
+- [ ] Click on the index.html file to edit it. 
+- [ ] Follow along with the exercises shown in the video and try the code in repl.
+- [ ]Link to video: https://scrimba.com/p/pG66Msa/cQ9raDcP
