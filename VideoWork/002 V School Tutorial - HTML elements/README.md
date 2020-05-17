@@ -32,5 +32,5 @@ Once you have linked your GitHub repository to repl, you can create new folders 
 * Enter a commit message which summarizes your changes.
 * Click on the 'commit & push ->' button
 * ![Commit and Push](https://github.com/cmcntsh/N6806_Fall2020_DevNotes/blob/master/Images/replGitCommit.JPG)
-* Since you created a new file, you may also need to click on the 'Pull' button.
+* Since you created a new file, you may also need to click on the 'Pull' button. (It will be yellow and show up above your commit message. It's not shown in this image.)
 * If you check back in GitHub, you should find the new folder and file you made in repl.
