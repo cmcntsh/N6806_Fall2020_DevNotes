@@ -20,7 +20,7 @@
 
 ## Push your repl changes back to GitHub
 * After changing your code click on the version control button on the left of the window.
-![Version Control Button](https://github.com/cmcntsh/N6806_Fall2020_DevNotes/blob/master/Images/replVersionControl.JPG)
+* ![Version Control Button](https://github.com/cmcntsh/N6806_Fall2020_DevNotes/blob/master/Images/replVersionControl.JPG)
 * Enter a commit message which summarizes your changes.
 * Click on the 'commit & push ->' button
-![Commit and Push](https://github.com/cmcntsh/N6806_Fall2020_DevNotes/blob/master/Images/replGitCommit.JPG)
+* ![Commit and Push](https://github.com/cmcntsh/N6806_Fall2020_DevNotes/blob/master/Images/replGitCommit.JPG)
