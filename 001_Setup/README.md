@@ -5,6 +5,7 @@
 - [ ] Set up a GitHub account.
 - [ ] Download and install VSCode.
 - [ ] Set up a repl.it account.
+- [ ] Set up a Discord account.
 
 ### Git/Git-bash
 * Download and install.
@@ -25,6 +26,10 @@
 ### Repl.it
 * Set up an account.
 * Link - https://repl.it/
+
+### Discord
+* Set up an account.
+* Link - https://discord.com/
   
 ### Original material
 * https://github.com/DevMountain/web-curriculum-v3/tree/master/01-orientation
