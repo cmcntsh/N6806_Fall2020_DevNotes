@@ -20,7 +20,7 @@ We'll be using these skills.
 * [ ] Go into that folder.
 * [ ] Create a file called `myName.txt` and add your name to that file.
 * [ ] Save the file and open a terminal window.
-* [ ] In your terminal window, `cd` to your `myProject` folder. O
+* [ ] In your terminal window, `cd` to your `myProject` folder.
 * [ ] Run `git init`. (Initializes your folder for tracking changes with git.)
 * [ ] Go to your new repository on GitHub and copy the address shown when you click the 'Clone or download' button.
 * [ ] Run `git remote add origin [Repository URL goes here]`. (This stores the address for your GitHub repository with your local repository.)
