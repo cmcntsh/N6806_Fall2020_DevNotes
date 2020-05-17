@@ -98,4 +98,4 @@ git clone "url for github repo"
 * Markdown: https://guides.github.com/features/mastering-markdown/
   
 ### Links to Original material (You do not need to review this material.)
-Original material: https://github.com/DevMountain/web-curriculum-v3/tree/master/01-orientation
+* Original material: https://github.com/DevMountain/web-curriculum-v3/tree/master/01-orientation
