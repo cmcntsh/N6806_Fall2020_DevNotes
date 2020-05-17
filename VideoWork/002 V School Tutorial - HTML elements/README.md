@@ -21,6 +21,7 @@ Once you have linked your GitHub repository to repl, you can create new folders 
 * Navigate into your new folder.
 * Click on the 'New File' button. (#3)
 * Name the new file with the correct file extension. (i.e. index.html)
+* ![My repl folder](https://github.com/cmcntsh/N6806_Fall2020_DevNotes/blob/master/Images/replCreateFolder.JPG)
 
 ## Link to video
 * https://scrimba.com/p/pG66Msa/ca3GKrc9
