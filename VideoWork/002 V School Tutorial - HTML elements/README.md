@@ -11,7 +11,7 @@ Once you have linked your GitHub repository to repl, you can create new folders 
 ## Open an existing repository in repl
 * Go to repl.it: https://repl.it/~
 * Go to the My repls folder.
-*![My repl folder](https://github.com/cmcntsh/N6806_Fall2020_DevNotes/blob/master/Images/replMyRepls.JPG)
+* ![My repl folder](https://github.com/cmcntsh/N6806_Fall2020_DevNotes/blob/master/Images/replMyRepls.JPG)
 * Your repl should have the name you gave it when you created it. (If you didn't specify a name, you may need to look in the Unnamed folder.)
 * Click on your repl.
 
