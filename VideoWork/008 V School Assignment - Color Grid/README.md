@@ -8,7 +8,7 @@
 - [ ] Turn in a link to your GitHub repository for this assignment in Canvas.
 
 ## Link to assignment description
-https://coursework.vschool.io/silly-cia-part-1/
+https://coursework.vschool.io/color-grid-from-scratch/
 
 ## Link to repl page
 * Repl will allow you to share links to html files you create in repl as regular web pages. 
