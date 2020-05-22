@@ -1,4 +1,4 @@
-# V School Assignment - Design a Blog
+# V School Assignment - Grocery Store JS
 
 ## Summary of Steps to Complete (See corresponding sections below.)
 - [ ] Fork this assignment so you can work on your own copy.
