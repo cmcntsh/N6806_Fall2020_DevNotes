@@ -39,4 +39,4 @@
 |`python --version` in regular Command Prompt  |(enter result here)|
 
 * If you didn't get a result in the regular command prompt, it means Python didn't get added to your path variable.
-* It's not strictly necessary. It just means you should run Python from the CLI using Anaconda Prompt instead of a regular command prompt.
+* It's not strictly necessary. It just means you should run Python from the CLI using Anaconda Prompt instead of a regular command prompt. Or you need to add the path to Python to your path variable.
