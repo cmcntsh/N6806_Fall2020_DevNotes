@@ -46,8 +46,8 @@
 |How do you keep your base environment unchanged?       |(enter description or short answer here)|
 |What is the link to the Conda cheat sheet? (link in video notes is broken)      |(enter description or short answer here)|
 |`conda create --name XXXX`       |(enter description or short answer here)|
-|`conda list`       |(enter description or short answer here)|
-|`conda list`       |(enter description or short answer here)|
+|`source activate XXXX`       |(enter description or short answer here)|
+|`conda install XXXX`       |(enter description or short answer here)|
 |`conda list`       |(enter description or short answer here)|
 |`conda list`       |(enter description or short answer here)|
 |`conda list`       |(enter description or short answer here)|
@@ -56,12 +56,17 @@
 |`conda list`       |(enter description or short answer here)|
 |`conda list`       |(enter description or short answer here)|
 
-* After creating the environments he created in the video, what would the results of running the command `conda env list` look like with the da35 environment activated. Paste the output from your command prompt in the code block below.
+* After creating the environments he created in the video on your computer, what would the results of running the command `conda env list` look like with the da35 environment activated. Paste the output from your command prompt in the code block below.
 
 ```
-# conda environments:
-#
-base     /miniconda3
+#Paste your results here.
+
+
+```
+* What command would you use to remove the environments you created for this exercise from your computer?
+
+```
+#Type the command here.
 
 ```
 
