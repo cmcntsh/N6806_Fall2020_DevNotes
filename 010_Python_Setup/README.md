@@ -32,3 +32,4 @@
 ## Set up VSCode for Python Programming
 * VSCode Python Setup (22 min): https://www.youtube.com/watch?v=W--_EOzdTHk
   * The presenter uses a different environment manager. We're going to stick with Conda. Don't use his commands for creating new environments.
+  * The presenter demonstrates the debugger a little bit. We're not going to do much with that right now so you can just watch.
