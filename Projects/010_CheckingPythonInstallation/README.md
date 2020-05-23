@@ -46,3 +46,4 @@
 * Instruction on how to find the path to the Python interpreter in Anaconda can be found here: https://docs.anaconda.com/anaconda/user-guide/tasks/integration/python-path/
 * Add Python and Conda to Windows path using command line: https://www.youtube.com/watch?v=dgjEUcccRwM
 * Add Python and Conda to Windows path using GUI: https://www.youtube.com/watch?v=uOwCiZKj2rg
+* He checks the Mac path variables around time 8-12 minutes: https://www.youtube.com/watch?v=9mAmZIRfJBs&list=PLG9A6ovzPqX6d9uWzx0UYN9pm0zzl5ofA&index=8&t=868s
