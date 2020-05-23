@@ -26,7 +26,7 @@
 
 ## Follow along with this tutorial
 
-* https://www.youtube.com/watch?v=23aQdrS58e0&list=PLG9A6ovzPqX6d9uWzx0UYN9pm0zzl5ofA&index=13&t=0s
+* Conda What and Why? (27 min): https://www.youtube.com/watch?v=23aQdrS58e0&list=PLG9A6ovzPqX6d9uWzx0UYN9pm0zzl5ofA&index=13&t=0s
   * He installs Miniconda. We will be using Anaconda. Don't install Miniconda.
   * Follow along with the rest of the tutorial.
   * Go ahead and create the environments as he creates them in the tutorial.
