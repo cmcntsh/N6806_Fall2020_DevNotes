@@ -27,10 +27,17 @@
 * [ ] Open an Anaconda Prompt.
 * [ ] Check your python version by running the code `python --version`
 * [ ] Enter your version in the table below.
+* [ ] Open a regular Command Prompt.
+* [ ] Check your python version by running the code `python --version`
+* [ ] Enter your version in the table below.
 
 |   Command   |         Result          |
 |     ---     |           ---           |
-|`python --version` in Anaconda Prompt  |(enter result here)|
+|`python --version` in Anaconda Prompt         |(enter result here)|
+|`python --version` in regular Command Prompt  |(enter result here)|
+
+* If you didn't get a result in the regular command prompt, it means Python didn't get added to your path variable.
+* It's not strictly necessary. It just means you should run Python from the CLI using Anaconda Prompt instead of a regular command prompt.
 
 ### Link your local repository to the GitHub repository
 
