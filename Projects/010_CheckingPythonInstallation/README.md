@@ -40,3 +40,7 @@
 
 * If you didn't get a result in the regular command prompt, it means Python didn't get added to your path variable.
 * It's not strictly necessary. It just means you should run Python from the CLI using Anaconda Prompt instead of a regular command prompt. Or you need to add the path to Python to your path variable.
+
+## Find your path to Python interpreter
+
+* Instruction on how to find the path to the Python interpreter in Anaconda can be found here: https://docs.anaconda.com/anaconda/user-guide/tasks/integration/python-path/
