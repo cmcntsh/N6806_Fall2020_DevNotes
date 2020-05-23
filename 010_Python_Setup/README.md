@@ -3,9 +3,6 @@
 ## Summary of Steps to Complete (See corresponding sections below.)
 - [ ] Download and install Anaconda.
 - [ ] Overview of Python
-- [ ] Download and install VSCode.
-- [ ] Set up a repl.it account.
-- [ ] Set up a Discord account.
 
 ## Anaconda
 * Download and install.
@@ -17,32 +14,7 @@
   * If this is your first time installing Python select Add Anaconda to System Path option as the presenter suggests.
   * You should already have VSCode installed on your system. You don't need to reinstall.
 
-### Overview of Python
+## Overview of Python
 * Introduction to Python with Anaconda for Beginners (56 min): https://www.youtube.com/watch?v=9mAmZIRfJBs&list=PLG9A6ovzPqX6d9uWzx0UYN9pm0zzl5ofA&index=8&t=868s
-
-### GitHub
-* Set up an account. 
-* Configure the username, email, and password of GitHub to work with Git. [May need instructions to do that.]
-* Link - https://www.github.com
-
-### VSCode
-* Download and install.
-* Link - https://code.visualstudio.com/download
-* Macs - Students using Macs will need to move the application from their downloads folder to their applications folder. They will then need to install the code command. This is done by opening VSCode and typing command + shift + p to open the search bar. Type shell command and select the first option.
-* Windows - Students using windows should change the default terminal in VSCode shell by typing ctrl + shift + p to open the search bar. Once the search bar is opened, have the students type select default shell. They will be able to select Bash as an option.
-
-### Repl.it
-* Set up an account.
-* Link - https://repl.it/
-
-### Discord
-* Set up an account.
-* Link - https://discord.com/
-  
-### Links to Original material (You do not need to review this material.)
-* https://github.com/DevMountain/web-curriculum-v3/tree/master/01-orientation
-* https://slides.com/dmweb/web-remote-orientation#/
-
-#### Key points from slides
-* Front-end: HTML, CSS, JavaScript, React
-* Back-end: Node, Express, PostgreSQL
+ * He uses Spyder in this introduction. We won't use it in this course, but it's not bad to see an example. We won't be doing any work from this video but it's a nice introduction. You can watch it quickly and slow down if you find areas that seem interesting.
+* Quick overview of Anaconda Navigator: https://www.youtube.com/watch?v=aN4VpU0yvZ4&list=PLG9A6ovzPqX6d9uWzx0UYN9pm0zzl5ofA&index=12&t=10s
