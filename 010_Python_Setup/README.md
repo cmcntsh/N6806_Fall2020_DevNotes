@@ -1,4 +1,4 @@
-## Setup
+## Setup a Python programming environment using Anaconda
 
 ### Summary of Steps to Complete (See corresponding sections below.)
 - [ ] Download and install Anaconda.
