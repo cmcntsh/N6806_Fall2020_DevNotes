@@ -44,3 +44,4 @@
 ## Find your path to Python interpreter
 
 * Instruction on how to find the path to the Python interpreter in Anaconda can be found here: https://docs.anaconda.com/anaconda/user-guide/tasks/integration/python-path/
+* Add Python and Conda to Windows path using command line: https://www.youtube.com/watch?v=dgjEUcccRwM
