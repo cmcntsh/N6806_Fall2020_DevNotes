@@ -1,11 +1,21 @@
-## Setup a Python programming environment using Anaconda
+# Setup a Python programming environment using Anaconda
 
-### Summary of Steps to Complete (See corresponding sections below.)
+## Summary of Steps to Complete (See corresponding sections below.)
 - [ ] Download and install Anaconda.
 - [ ] Set up a GitHub account.
 - [ ] Download and install VSCode.
 - [ ] Set up a repl.it account.
 - [ ] Set up a Discord account.
+
+## Anaconda
+* Download and install.
+* Make sure to select a Python 3.x version.
+* A graphical installer should work for most people (Windows or Mac).
+* Download page may look a little different than what is shown in the videos - https://www.anaconda.com/products/individual
+* Mac - https://git-scm.com/downloads
+* Windows Example (14 min) - https://www.youtube.com/watch?v=5mDYijMfSzs&list=PLG9A6ovzPqX6d9uWzx0UYN9pm0zzl5ofA&index=11&t=0s
+  * If this is your first time installing Python select Add Anaconda to System Path option as the presenter suggests.
+  * You should already have VSCode installed on your system. You don't need to reinstall.
 
 ### Git/Git-bash
 * Download and install.
