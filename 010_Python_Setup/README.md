@@ -24,7 +24,7 @@
 * Quick overview of Anaconda Navigator: https://www.youtube.com/watch?v=aN4VpU0yvZ4&list=PLG9A6ovzPqX6d9uWzx0UYN9pm0zzl5ofA&index=12&t=10s
 
 ## Conda Environment and Package Manager
-* Anaconda Tutorial 2019 - Python Virtual Environment Manager
+* Anaconda Tutorial 2019 - Python Virtual Environment Manager (11 min): https://www.youtube.com/watch?v=mIB7IZFCE_k&list=PLG9A6ovzPqX6d9uWzx0UYN9pm0zzl5ofA&index=8&t=93s
 
 ## Overview of Jupyter Notebooks
 * Jupyter Notebook Tutorial (20 min): https://www.youtube.com/watch?v=3C9E2yPBw7s&list=PLG9A6ovzPqX6d9uWzx0UYN9pm0zzl5ofA&index=10&t=16s
