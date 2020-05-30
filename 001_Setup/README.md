@@ -14,7 +14,12 @@
 
 ### GitHub
 * Set up an account. 
-* Configure the username, email, and password of GitHub to work with Git. [May need instructions to do that.]
+* Configure the username and email for GitHub to work with Git.
+  * Answer on StackOverflow: https://stackoverflow.com/questions/56970149/how-do-i-change-the-user-in-vscode-and-link-my-github-account
+  * In a terminal run the code `git config --global user.email "email@example.com"`
+  * Don't use quotation marks, just put your desired email in and make sure it's associated with your github account (Github > Profile > Settings > Email > Add Email)
+  * Then check to see if it worked by running `git config --global user.email`
+  * Also set the user name by running `git config --global user.name "GitHubUserName"`
 * Link - https://www.github.com
 
 ### VSCode
