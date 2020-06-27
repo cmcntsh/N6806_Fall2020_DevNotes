@@ -20,6 +20,7 @@
   * Don't use quotation marks, just put your desired email in and make sure it's associated with your github account (Github > Profile > Settings > Email > Add Email)
   * Then check to see if it worked by running `git config --global user.email`
   * Also set the user name by running `git config --global user.name "GitHubUserName"`
+  * Your GitHub user name can also be seen at the top of the GitHub Settings page.
   * (Instructions came from answer on StackOverflow: https://stackoverflow.com/questions/56970149/how-do-i-change-the-user-in-vscode-and-link-my-github-account)
   
 ### VSCode
