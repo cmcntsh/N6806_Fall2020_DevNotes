@@ -29,3 +29,6 @@ Technology is advancing and there are now some online options for doing Python p
   * You should be able to upload our assignment files to Noteable to complete them, then download your completed assignments to turn in on GitHub. It's not a perfect solution yet, but it's an alternative to installing software on your computer.
 * Google Colab https://colab.research.google.com/?utm_source=scs-index
   * Google Colab also allows you to create a free account and use Jupyter Notebooks online.
+* GitHub CodeSpaces https://github.com/features/codespaces
+  * GitHub CodeSpaces allows you to program using VSCode in a browser.
+  * At the time I made this update, you could use up to 60 hours of CodeSpaces for free. Rates for additional time looked very reasonable. (Students may get more free time.)
